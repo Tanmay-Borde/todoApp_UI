@@ -1,0 +1,4 @@
+Lifecycle of a React Component:
+    - Constructor(): is called when the component is being initialised.
+    - Render() : is callled whenever a state in the component changes / or views needs update.
+    - componentDidMount() : is called when the componennt is loaded for the first time and shown on the browser.
